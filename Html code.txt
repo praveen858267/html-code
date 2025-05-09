@@ -122,6 +122,7 @@ border-collapse: collapse;
            <td> strong importance tag </td>
            <td> Makes text bold and semantically important.</td>
        </tr>
+<a href="./Html code.txt"> open </a>
          
 </table>
 </body>
